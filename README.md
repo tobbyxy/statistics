@@ -13,3 +13,4 @@
 
 ### [Single cell RNA sequencing](https://github.com/pachterlab/BI-BE-CS-183-2023?tab=readme-ov-file)
 ### [Great Ideas In Computational Biology](https://compeau.cbd.cmu.edu/teaching/great-ideas-in-computational-biology/)
+### [Probability for computer scientist](https://web.stanford.edu/class/cs109/)
