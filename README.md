@@ -11,6 +11,6 @@
 
 # Spring 2024 courses
 
-### [Single cell RNA sequencing](https://github.com/pachterlab/BI-BE-CS-183-2023?tab=readme-ov-file)
-### [Great Ideas In Computational Biology](https://compeau.cbd.cmu.edu/teaching/great-ideas-in-computational-biology/)
-### [Probability for computer scientist](https://web.stanford.edu/class/cs109/)
+### [Single cell RNA sequencing  - Lior Patcher](https://github.com/pachterlab/BI-BE-CS-183-2023?tab=readme-ov-file)
+### [Great Ideas In Computational Biology Phillip Compeau](https://compeau.cbd.cmu.edu/teaching/great-ideas-in-computational-biology/)
+### [Probability for computer scientist - Stanford](https://web.stanford.edu/class/cs109/)
